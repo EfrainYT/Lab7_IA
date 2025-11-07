@@ -29,7 +29,7 @@ if not cap.isOpened():
     print(" No se pudo acceder a la cámara.")
     exit()
 
-print("🎥 Cámara iniciada. Presiona 'q' para salir.")
+print("Cámara iniciada. Presiona 'q' para salir.")
 
 # ======================
 # BUCLE PRINCIPAL
