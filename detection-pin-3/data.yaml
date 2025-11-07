@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['pin']
+
+roboflow:
+  workspace: efraspace
+  project: detection-pin-ppaag
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/efraspace/detection-pin-ppaag/dataset/3
